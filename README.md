@@ -58,28 +58,28 @@ STATUS: ONLINE
 <tr>
 <td width="50%">
 
-**[guatelipe-website](https://github.com/CarlosGuatelipe/guatelipe-website)**
-Site e portfolio pessoal, construido com foco em performance e design responsivo.
+**[Fisio Caroline Scarabelli](https://fisiocarolscarabelli.netlify.app/)**
+Landing page para fisioterapeuta com atendimento domiciliar, especialidades, processo de atendimento e agendamento via WhatsApp.
 
 </td>
 <td width="50%">
 
-**[guatelipe-portal](https://github.com/CarlosGuatelipe/guatelipe-portal)**
-Plataforma web para gestao e atendimento de clientes.
+**[TATO.ia](https://site-creator-vinext-starter.guatelipe-dev.workers.dev/)**
+Aplicacao web de inteligencia financeira: monitoramento de mercado, briefing de oportunidades, indicadores e montagem de carteira.
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**[guatelipe-crm](https://github.com/CarlosGuatelipe/guatelipe-crm)**
-Sistema de CRM para organizacao de leads e vendas.
+**[guatelipe-portal](https://github.com/CarlosGuatelipe/guatelipe-portal)**
+Plataforma web para gestao e atendimento de clientes.
 
 </td>
 <td width="50%">
 
-**[rbxforge-marketplace](https://github.com/CarlosGuatelipe/rbxforge-marketplace)**
-Marketplace web com catalogo de produtos e checkout.
+**[guatelipe-crm](https://github.com/CarlosGuatelipe/guatelipe-crm)**
+Sistema de CRM para organizacao de leads e vendas.
 
 </td>
 </tr>
