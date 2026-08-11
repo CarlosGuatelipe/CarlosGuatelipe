@@ -133,8 +133,8 @@ while (alive) {
 
 ### GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosGuatelipe&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosGuatelipe&theme=react&hide_border=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=CarlosGuatelipe&show_icons=true&theme=react&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=CarlosGuatelipe&theme=react&hide_border=true" width="49%" />
 
 ### Contribution Graph
 
@@ -142,7 +142,7 @@ while (alive) {
 
 ### GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=CarlosGuatelipe&theme=darkhub&no-frame=true&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=CarlosGuatelipe&theme=darkhub&no-frame=true&row=1&column=6" />
 
 ---
 
